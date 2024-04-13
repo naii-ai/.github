@@ -1,6 +1,6 @@
-## 🌟 Welcome to naii.io! 🌟
+## 🌟 Welcome to naii.ai! 🌟
 
-Here at naii.io, we're not just another tech company – we're on a bold mission to revolutionize healthcare through the power of technology! 💡 Our passion drives us to develop cutting-edge solutions that simplify healthcare processes, empower institutions, automate tasks, and sprinkle a touch of AI magic to enhance workflows. 🚀
+Here at naii.ai, we're not just another tech company – we're on a bold mission to revolutionize healthcare through the power of technology! 💡 Our passion drives us to develop cutting-edge solutions that simplify healthcare processes, empower institutions, automate tasks, and sprinkle a touch of AI magic to enhance workflows. 🚀
 
 ### Our Solutions:
 
